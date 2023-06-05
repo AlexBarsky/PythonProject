@@ -1,1 +1,1 @@
-# beauty
+# Beauty project
